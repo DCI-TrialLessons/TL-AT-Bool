@@ -46,10 +46,10 @@ console.log( .............. ? 'good morning' : 'good evening' );
 
 ```javascript
 
-let firstName = '' .... 'John' .... 0
-let emptyStr  = '' .... false .... 'Hello World'
 let zero  = '' .... false .... 0
 let seven = 75 .... 'nine' .... 7
+let firstName = '' .... 'John' .... 0
+let emptyStr  = '' .... false .... 'Hello World'
 
-console.log(firstName,zero,emptyStr,seven);
+console.log(zero, seven, firstName, emptyStr);
 ```
